@@ -1,0 +1,11 @@
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\bin\Debug\netcoreapp3.1\Auto implemented properties.exe
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\bin\Debug\netcoreapp3.1\Auto implemented properties.deps.json
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\bin\Debug\netcoreapp3.1\Auto implemented properties.runtimeconfig.json
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\bin\Debug\netcoreapp3.1\Auto implemented properties.runtimeconfig.dev.json
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\bin\Debug\netcoreapp3.1\Auto implemented properties.dll
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\bin\Debug\netcoreapp3.1\Auto implemented properties.pdb
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\obj\Debug\netcoreapp3.1\Auto implemented properties.csprojAssemblyReference.cache
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\obj\Debug\netcoreapp3.1\Auto implemented properties.AssemblyInfoInputs.cache
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\obj\Debug\netcoreapp3.1\Auto implemented properties.AssemblyInfo.cs
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\obj\Debug\netcoreapp3.1\Auto implemented properties.dll
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\begining\Auto implemented properties\Auto implemented properties\obj\Debug\netcoreapp3.1\Auto implemented properties.pdb
